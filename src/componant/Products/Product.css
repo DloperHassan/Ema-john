@@ -1,0 +1,50 @@
+.all-products{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 5px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+   
+}
+.product-name{
+    color: blue;
+    font-weight: 400;
+}
+.text-tomato{
+    color: tomato;
+    font-weight: bold;
+}
+.main-button1{
+    background: rgb(231, 49, 17);
+    width: 150px;
+    height: 30px;
+    border-top: 0.5px solid #000;
+    border-radius: 3px;
+    margin: 5px;
+    font-weight: bold;
+    cursor: pointer;
+     
+}
+.main-button1:hover{
+    background: rgb(209, 206, 45);
+     
+}
+ 
+.revieItm{
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    display: flex;
+}
+
+.shop-container{
+    display: flex;
+}
+.product-container{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+     
+}
